@@ -1,3 +1,3 @@
-# PhysicsEngineJava
+# PhysicsEngine
 
-This projevt is in work process
+This project is in work process
